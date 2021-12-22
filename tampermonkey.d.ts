@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-// https://github.com/uwx/Tampermonkey-Typescript-Declaration/edit/master/tampermonkey.d.ts
+// https://github.com/uwx/Tampermonkey-Typescript-Declaration/blob/master/tampermonkey.d.ts
 declare global {
 
     const unsafeWindow: Window;
